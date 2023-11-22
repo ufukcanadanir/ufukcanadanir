@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ufukcanadanir
 - 👀 I’m interested in books, series and movies, gaming, football and coding
-- 🌱 I’m currently learning java, python, sql and c++
+- 🌱 I’m currently learning C#, Python, SQL and React
 - 📫 How to reach me ig:ufukcanadanir mail:ufukcanadanir@gmail.com
 
 <!---
